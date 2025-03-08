@@ -40,11 +40,11 @@ const Navbar = () => {
                     ))}
                 </div>
             </div>
-            <div className={isOpen ? "w-50 fixed left-0 top-0" : "w-0 hidden"}>
+            {/* <div className={isOpen ? "w-50 fixed left-0 top-0" : "w-0 hidden"}>
                 {navItems.map((item, index) => (
                     <NavLink to={`${!params.adminEmail ? `${item.to}` : `${item.to}${params.adminEmail}`}`} key={index} className={({ isActive }) => `w-full px-3 py-2 hover:text-blue-600 hover:bg-gray-200 ${isActive ? "text-blue-600 " : ""}`} >{item.label}</NavLink>
                 ))}
-            </div>
+            </div> */}
         </div>
     )
 }
