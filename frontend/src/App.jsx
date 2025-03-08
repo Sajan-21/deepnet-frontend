@@ -4,8 +4,6 @@ import Home from './pages/Home';
 import Menu from './pages/Menu';
 import Reservation from './pages/Reservation';
 import Contact from './pages/Contact';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
 import AdminLogin from './pages/AdminLogin';
 import AdminDashboard from './pages/AdminDashboard'
 import AdminMenu from './pages/AdminMenu';
