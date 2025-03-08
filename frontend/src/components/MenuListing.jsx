@@ -32,6 +32,10 @@ const MenuListing = () => {
             console.log('Error in fetchItems:', error);
         }
     };
+    console.log(items);
+    console.log(menus);
+    
+    
 
     return (
         <div>
