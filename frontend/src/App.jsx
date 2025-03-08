@@ -12,7 +12,7 @@ import AdminMenu from './pages/AdminMenu';
 import AdminItems from './pages/AdminItems';
 import { ToastContainer } from 'react-toastify'
 
-export const backendUrl = `http://localhost:5000`;
+export const backendUrl = "https://deepnet-backend-1.onrender.com";
 
 function App() {
 
