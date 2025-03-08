@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+.teko-font {
+    font-family: "Teko", sans-serif;
+}
+
+.menu-intro-bg-img{
+    background-image: url('./assets/vintage-old-rustic-cutlery-dark_1220-4886.avif');
+}
+
+.menu-btn-bg-img{
+    background-image: url('./assets/blackboard-food-background_23-2148061711.avif');
+}
+
+.menu-list-bg-img{
+    background-image: url('./assets//menu-bg.avif');
+}
